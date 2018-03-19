@@ -15,7 +15,7 @@ ifndef::env-github[]
 image::images/Ui.png[width="600"]
 endif::[]
 
-* This is a desktop TuitionCor application. It has a GUI but most of the user interactions happen using a CLI (Command Line Interface).
+* TuitionCor is an application designed to facilitate the daily task of a tuition coordinator. the job scoop of a tuition coordinator involves the registering of new tutor and new students, as well as matching the tutors to students according to address, subject, level etc.
 * TuitionCor is targeted at tuition coordinators who have to manage a large amount of contacts.
 * The daily job-scope of a tuition coordinator involves the need to manage large amount of contacts and match the students to tutors according to their credentials, needs and location.
 * Therefore, TuitionCor aims to facilitate this process and make the job of a tuition coordinator easier.

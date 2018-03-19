@@ -268,7 +268,6 @@ _{explain how the user can enable/disable data encryption}_
 == Command Summary
 
 * *Add* `add n/NAME p/PHONE_NUMBER e/EMAIL a/ADDRESS [t/TAG]...` +
-<<<<<<< Updated upstream
 e.g. `add n/James Ho p/22224444 e/jamesho@example.com a/123, Clementi Rd, 1234665 t/friend t/colleague` +
 Alias: `a`
 * *Clear* : `clear` +
@@ -294,7 +293,6 @@ Alias: `h`
 Alias: `u`
 * *Redo* : `redo` +
 Alias: `r`
-=======
 
  Alias : a
 
@@ -344,4 +342,3 @@ e.g.`select 2`
 * *Redo* : `redo`
 
  Alias : r
->>>>>>> Stashed changes
